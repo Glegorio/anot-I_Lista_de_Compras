@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Identidade anotAI: abertura nativa branca com o ícone (igual à tela de carregamento do Flutter). -->
+    <color name="launch_background">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
